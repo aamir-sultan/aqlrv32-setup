@@ -179,7 +179,7 @@ make test
 `git clone https://github.com/aamir-sultan/aqlrv32.git`
 
 ***
-### Setup and First Run
+### **Setup and First Run**
 Only first time
 ```shell
 source ~/.bashrc
