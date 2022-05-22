@@ -159,7 +159,7 @@ Configure and create Makefile
 ```      
 
 ```shell
-make -j "nproc"
+make -j `nproc`
 ```  
 Build Verilator itself (if error, try just `make`)
 
@@ -174,9 +174,13 @@ make test
 ***
 ## Cloning the Core
 
-`mkdir -p ~/proj/cores/; cd ~/proj/cores/;`
+```shell
+mkdir -p ~/proj/cores/; cd ~/proj/cores/;
+```
 
-`git clone https://github.com/aamir-sultan/aqlrv32.git`
+```shell
+git clone https://github.com/aamir-sultan/aqlrv32.git
+```
 
 ***
 ### **Setup and First Run**
