@@ -188,6 +188,11 @@ Only first time
 ```shell
 source ~/.bashrc
 ```  
+Enter the repo
+
+```shell
+cd aqlrv32
+```
 
 ```shell
 make verilator=1 all
