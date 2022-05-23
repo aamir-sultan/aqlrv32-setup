@@ -2,7 +2,7 @@
 
 Compressed instructions are a set instructions which are of 16 bit length in the RISC-V architechture. The Compressed instruction are represented by the charachter "C" in RISC-V specifications.
 
-In this project, the team need to add compressed instruction extension (C extension) to the core (aqlrv32). Originally the core supports I and M extensions.
+In this project, the team needs to add compressed instruction extension (C extension) to the core (aqlrv32). Originally the core supports I and M extensions.
 
 ## Team Members
 
@@ -21,12 +21,12 @@ If team members accomplish these segments ahead of schedule, this task distribut
 
 **1-day**
 
+*   Detailed verification plan
 
-
-
-
-Detailed verification plan
+*   Discussion of the Issues (If any) and Verification plan.
 
 **6-days**
 
-Get the RTL & updated infrastructure ready and verify the implementation
+*   Get the RTL & updated infrastructure
+
+*   Write and verify the implementation
