@@ -199,5 +199,3 @@ For further details on the core one can refer to
 ```shell
 https://github.com/aamir-sultan/aqlrv32.git
 ```
-
-
