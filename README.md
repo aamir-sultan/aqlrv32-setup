@@ -109,6 +109,9 @@ Ubuntu only (ignore if gives error)
 ```shell
 sudo apt-get install zlibc zlib1g zlib1g-dev
 ```
+```shell
+cd ~/proj/tools/
+```
 
 Only first time
 ```shell
