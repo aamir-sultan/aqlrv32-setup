@@ -77,6 +77,9 @@ cd ~/proj/tools/
 ```shell
 git clone https://github.com/linux-test-project/lcov.git
 ```
+```shell
+cd lcov
+```
 
 ```shell
 sudo make install
